@@ -1,0 +1,15 @@
+{
+  "name": "hexToRGBA ",
+  "version": "0.0.0",
+  "description": "this is a hex to RGBA converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
